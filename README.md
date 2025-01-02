@@ -8,9 +8,9 @@ I'm a passionate Full Stack Developer with a strong foundation in both front-end
 
 ## 🛠 Skills and Technologies
 ### Front-End
-- **Languages:** HTML, CSS, JavaScript .
-- **Frameworks/Libraries:** React.
-- **Styling:** Material UI, Bootstrap
+- **Languages:** HTML, CSS, JavaScript, TypeScript .
+- **Frameworks/Libraries:** React, NextJS.
+- **Styling:** Material UI, Bootstrap, Tailwind CSS .
 
 ### Back-End
 - **Languages:** Node.js
