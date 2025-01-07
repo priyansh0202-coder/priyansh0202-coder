@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Priyansh soni!
 
 ## 🌐 About Me
-I'm a passionate Full Stack Developer with a strong foundation in both front-end and back-end technologies. I love building scalable web applications and exploring new technologies to solve real-world problems.
+I'm a passionate Front-End Developer specializing in building dynamic and responsive web applications using Next.js and React. I enjoy crafting seamless user interfaces and exploring modern tools and technologies to deliver impactful digital experiences.
 
 - 🌍 I'm based in Pune
 - 📫 How to reach me: [priyanshsoni36@gmail.com]
@@ -19,6 +19,5 @@ I'm a passionate Full Stack Developer with a strong foundation in both front-end
 
 ### Tools
 - **Version Control:** Git, GitHub
-- **CI/CD:**  GitHub Actions
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas. Let's build something amazing together!
